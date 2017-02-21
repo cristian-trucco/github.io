@@ -5,9 +5,7 @@ Página Pessoal
 [Linkedin](http://bit.ly/linkendin-cristian-trucco)
 
 CRISTIAN VITOR TRUCCO Idade: 30 anos data nascimento: 10/06/1986, casado.
-RG: 21405980-0, CPF: 113.751.747-62, CNH: AD atividade remunerada.
-Endereço: Rua Cristóvão Colombo 201, casa 1, Cachambi, Rio de Janeiro.
-Telefones para contato: (21) 98614-1906
+
 E-mail:cristian-trucco@bol.com.br 
 LPI ID: LPI000269760 CISCO ID:  CSCO12531252
 E-mail:cristianvitortrucco@gmail.com
