@@ -1,9 +1,9 @@
 # github.io
 Página Pessoal
-**teste
 
-Currículo     
-http://bit.ly/linkendin-cristian-trucco
+#Currículo
+[I'm an inline-style link](http://bit.ly/linkendin-cristian-trucco)
+
 CRISTIAN VITOR TRUCCO Idade: 30 anos data nascimento: 10/06/1986, casado.
 RG: 21405980-0, CPF: 113.751.747-62, CNH: AD atividade remunerada.
 Endereço: Rua Cristóvão Colombo 201, casa 1, Cachambi, Rio de Janeiro.
@@ -14,10 +14,10 @@ E-mail:cristianvitortrucco@gmail.com
 Objetivo:
  Como plano de carreira tenho interesse em exercer funções no qual posso demonstrar a minha organização, responsabilidade e dedicação. Possuo experiência em troubleshoot em ambientes críticos em produção. Analista Linux com mais de 8 anos de experiência.
 
-Escolaridade:
+##Escolaridade:
 Ensino superior cursando 4° período (Analise e desenvolvimento de sistemas, Cândido Mendes)
 
-Certificações.
+##Certificações.
 
 •	CERTIFICADO LPIC 1 
 •	CERTIFICADO LPIC 2
