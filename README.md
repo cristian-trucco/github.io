@@ -43,13 +43,14 @@ Ensino superior cursando 4° período (Analise e desenvolvimento de sistemas, C�
 •	CURSO DOCKER – OFICIAL DOCKER E LINUXTIPS.
 •	CURSO DEVOPS.
 •	CURSO JAVA - CAELUM
-IDIOMAS
+
+## IDIOMAS
 
 Inglês: leitura intermediária, escrita intermediária, conversação básica.
 Espanhol: leitura intermediária, escrita básica, conversação básica.
 
 
-#CONHECIMENTOS COMPLEMENTARES
+## CONHECIMENTOS COMPLEMENTARES
  
 Windows Server 2003,2008 e 2012 (AD,DHCP,FTP,ISS) nível avançado.
 Pacote Office (Word, Excel, Power Point e Outlook) nível avançado.
@@ -64,7 +65,7 @@ Conhecimentos em containers Docker.
 Conhecimentos de vendas voltado para soluções de serviços e negócios em Ti.
 Conhecimento de Java,sql,css,html,php,javascript.
 
-# Vertigo Tecnologia: Atual
+## Vertigo Tecnologia: Atual
 Atuando como Analista de Infraestrutura Sênior: dando suporte a servidores Redhat, Vmware,Windows Server 2003,2008,2012. Estrutura de servidores na Amazon.  Atuando com aplicações Linux (Jboss,Apache,Tomcat) e soluções de portais (Liferay,Wordpress). Monitorando os ambientes de infraestrutura, aplicações e serviços em produção com Nagios,Zabbix ,MRTG,Dynatrace,Newrelic, manutenção de infraestrutura de rede ( empresa/cliente ) configuração de roteadores e switch – Cisco,Dell,Hp, monitoria de ativos de rede, máquinas virtuais, com Vmware, backup de servidores, elaboração de script de backup, Windows Storage,Tivoli IBM , entre outras atividades pertinentes a infraestrutura de Ti. 
 Experiências anteriores.
 
