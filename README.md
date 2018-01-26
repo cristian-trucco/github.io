@@ -2,7 +2,7 @@
 Página Pessoal
 
 # Currículo
-[Linkedin](http://bit.ly/linkendin-cristian-trucco)
+[Linkedin](https://www.linkedin.com/in/cristian-trucco-00613b53/)
 
 CRISTIAN VITOR TRUCCO Idade: 30 anos data nascimento: 10/06/1986, casado.
 
@@ -65,9 +65,16 @@ Conhecimentos em containers Docker.
 Conhecimentos de vendas voltado para soluções de serviços e negócios em Ti.
 Conhecimento de Java,sql,css,html,php,javascript.
 
+## Concrete Solutions:  Atual. 
+
+Atuando como analista DevOps, automatizando tarefas usando ferramentas de gerencia de configuração (Ansible e Chef) para resolver dependências de pacotes (criação de task e roles) para setup de ambiente. Terraform e Packer para criação de imagens e instâncias, Gitflow para versionamento de infraestrutura como código. Utilizando principais ferramentas no mercado para CI/CD (TFS/Jenkins/Gitlab). Criação de pipeline,teste,build e deploy em ambientes segregados. Monitoria de ambientes: Splunck para logs e ferramentas de APM para aplicações. Docker para provisionamento de containers. Utilizando Docker Swarm e Kubernetes para cluster de aplicações em containers. Utilizando AWS para pocs e labs. 
+
 ## Vertigo Tecnologia: Atual
 Atuando como Analista de Infraestrutura Sênior: dando suporte a servidores Redhat, Vmware,Windows Server 2003,2008,2012. Estrutura de servidores na Amazon.  Atuando com aplicações Linux (Jboss,Apache,Tomcat) e soluções de portais (Liferay,Wordpress). Monitorando os ambientes de infraestrutura, aplicações e serviços em produção com Nagios,Zabbix ,MRTG,Dynatrace,Newrelic, manutenção de infraestrutura de rede ( empresa/cliente ) configuração de roteadores e switch – Cisco,Dell,Hp, monitoria de ativos de rede, máquinas virtuais, com Vmware, backup de servidores, elaboração de script de backup, Windows Storage,Tivoli IBM , entre outras atividades pertinentes a infraestrutura de Ti. 
 Experiências anteriores.
 
+
+
+##### Atualizado 02/2018
 
 
