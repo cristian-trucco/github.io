@@ -6,18 +6,20 @@ Página Pessoal
 
 CRISTIAN VITOR TRUCCO Idade: 33 anos.
 
-**E-mail**:cristian-trucco@bol.com.br 
+**E-mail**: cristian-trucco@bol.com.br 
 **LPI ID**: LPI000269760 CISCO ID:  CSCO12531252
-**E-mail**:cristianvitortrucco@gmail.com
+**E-mail**: cristianvitortrucco@gmail.com
 
 **Objetivo:**
  Como plano de carreira tenho interesse em exercer funções no qual posso demonstrar a minha organização, responsabilidade e dedicação. Possuo experiência em troubleshoot em ambientes críticos em produção. Analista Linux com mais de 8 anos de experiência.
 
 ## Escolaridade:
-Ensino superior cursando 4° período (Analise e desenvolvimento de sistemas, Cândido Mendes)
+**Ensino Superior - Formado em**: Analise e desenvolvimento de sistemas - Cândido Mendes.
 
 ## Certificações.
 
+•	CERTIFICADO Docker DCA
+•	CERTIFICADO Safe 4.5
 •	CERTIFICADO LPIC 1 
 •	CERTIFICADO LPIC 2
 •	CERTIFICADO LPIC 3 - CORE
