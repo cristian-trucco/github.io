@@ -4,13 +4,11 @@ Página Pessoal
 # Currículo
 [Linkedin](https://www.linkedin.com/in/cristian-trucco-00613b53/)
 
-CRISTIAN VITOR TRUCCO Idade: 33 anos data nascimento: 10/06/1986, casado.
+CRISTIAN VITOR TRUCCO Idade: 33 anos.
 
-<a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/9eb828aff34eb41d3968bf18e54d83"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
-
-E-mail:cristian-trucco@bol.com.br 
-LPI ID: LPI000269760 CISCO ID:  CSCO12531252
-E-mail:cristianvitortrucco@gmail.com
+**E-mail**:cristian-trucco@bol.com.br 
+**LPI ID**: LPI000269760 CISCO ID:  CSCO12531252
+**E-mail**:cristianvitortrucco@gmail.com
 
 **Objetivo:**
  Como plano de carreira tenho interesse em exercer funções no qual posso demonstrar a minha organização, responsabilidade e dedicação. Possuo experiência em troubleshoot em ambientes críticos em produção. Analista Linux com mais de 8 anos de experiência.
@@ -83,6 +81,6 @@ Experiências anteriores.
 
 
 
-##### Atualizado 02/2018
+##### Atualizado 08/2019
 
 
