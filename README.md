@@ -4,12 +4,15 @@ Página Pessoal
 # Currículo
 [Linkedin](https://www.linkedin.com/in/cristian-trucco-00613b53/)
 
-CRISTIAN VITOR TRUCCO Idade: 30 anos data nascimento: 10/06/1986, casado.
+CRISTIAN VITOR TRUCCO Idade: 33 anos data nascimento: 10/06/1986, casado.
+
+<a frameborder="0" data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/9eb828aff34eb41d3968bf18e54d83"/></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 
 E-mail:cristian-trucco@bol.com.br 
 LPI ID: LPI000269760 CISCO ID:  CSCO12531252
 E-mail:cristianvitortrucco@gmail.com
-Objetivo:
+
+**Objetivo:**
  Como plano de carreira tenho interesse em exercer funções no qual posso demonstrar a minha organização, responsabilidade e dedicação. Possuo experiência em troubleshoot em ambientes críticos em produção. Analista Linux com mais de 8 anos de experiência.
 
 ## Escolaridade:
@@ -65,7 +68,12 @@ Conhecimentos em containers Docker.
 Conhecimentos de vendas voltado para soluções de serviços e negócios em Ti.
 Conhecimento de Java,sql,css,html,php,javascript.
 
-## Concrete Solutions:  Atual. 
+## Rede Globo: Atual
+
+Atuando como analista DevOps, automatizando tarefas usando ferramentas de gerencia de configuração, setup de ambientes usando o Terraform e Packer para criação de imagens e instâncias na Nuvem,infraestrutura como código. CI/CD (TFS/Jenkins/Gitlab). Criação de pipeline,teste,build e deploy em ambientes segregados. Monitoria de ambientes: Splunck para logs e ferramentas de APM para aplicações. Docker para provisionamento de containers. Utilizando Docker Swarm e Kubernetes para cluster de aplicações em containers. Utilizando AWS para pocs e labs.
+
+
+## Concrete Solutions:  
 
 Atuando como analista DevOps, automatizando tarefas usando ferramentas de gerencia de configuração (Ansible e Chef) para resolver dependências de pacotes (criação de task e roles) para setup de ambiente. Terraform e Packer para criação de imagens e instâncias, Gitflow para versionamento de infraestrutura como código. Utilizando principais ferramentas no mercado para CI/CD (TFS/Jenkins/Gitlab). Criação de pipeline,teste,build e deploy em ambientes segregados. Monitoria de ambientes: Splunck para logs e ferramentas de APM para aplicações. Docker para provisionamento de containers. Utilizando Docker Swarm e Kubernetes para cluster de aplicações em containers. Utilizando AWS para pocs e labs. 
 
